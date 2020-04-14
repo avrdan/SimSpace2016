@@ -1,18 +1,20 @@
 # NASA Space﻿ Apps Challenge 2016
 
-![](http://www.dan-avram.com/uploads/4/0/2/9/40294933/3124385.png)
+<p align="center"> 
+<img src="http://www.dan-avram.com/uploads/4/0/2/9/40294933/3124385.png">
+</p>
 
 I participated in the 2016 edition of the NASA space apps challenge, which has held in many countries all over the world. In Romania, the event was held in Cluj-Napoca.
 
-We had little more than a day for development and we had to choose one of the challenges provided by NASA.
+We had little more than a day for development and we had to choose one of the [challenges](https://2016.spaceappschallenge.org/challenges) provided by NASA.
 
 I posted on the event's Facebook group on who would like to work on a few projects that I was interested in. I met the team the next day, a group of four high school students.
 
-We worked on the SimSpace challenge, inside the Journey to Mars category. The focus was on creating a human habitat on Mars:
+We worked on the [SimSpace](https://2016.spaceappschallenge.org/challenges/mars/simspace) challenge, inside the Journey to Mars category. The focus was on creating a human habitat on Mars:
 
 "Players could build a habitat that could withstand the Lunar or Martian environment while also taking into consideration that its inhabitants need to have adequate power and supplies, be able to produce food, have locations sleep, live and work."
 
-We developed a prototype of a game using Unity, called Thinking Outside the Earth. 
+We developed a prototype of a game using Unity, called [Thinking Outside the Earth](https://2016.spaceappschallenge.org/challenges/mars/simspace/projects/thinking-outside-the-earth). 
 
 ![](http://www.dan-avram.com/uploads/4/0/2/9/40294933/9738831_orig.jpg)
 
