@@ -1,0 +1,37 @@
+Initialize engine version: 5.3.4f1 (fdbb5133b820)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce RTX 2080 with Max-Q Design (ID=0x1ed0)
+    Vendor:   NVIDIA
+    VRAM:     8010 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\avrda\Work\SimSpace\SimSpace2016\Binaries\SpaceApps2016_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\avrda\Work\SimSpace\SimSpace2016\Binaries\SpaceApps2016_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\avrda\Work\SimSpace\SimSpace2016\Binaries\SpaceApps2016_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\avrda\Work\SimSpace\SimSpace2016\Binaries\SpaceApps2016_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\avrda\Work\SimSpace\SimSpace2016\Binaries\SpaceApps2016_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\avrda\Work\SimSpace\SimSpace2016\Binaries\SpaceApps2016_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\avrda\Work\SimSpace\SimSpace2016\Binaries\SpaceApps2016_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\avrda\Work\SimSpace\SimSpace2016\Binaries\SpaceApps2016_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.033 seconds
+Platform assembly: C:\Users\avrda\Work\SimSpace\SimSpace2016\Binaries\SpaceApps2016_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\avrda\Work\SimSpace\SimSpace2016\Binaries\SpaceApps2016_Data\Managed\System.dll (this message is harmless)
+desktop: 3840x2160 60Hz; virtual: 12960x2430 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+The referenced script on this Behaviour (Game Object 'windMare') is missing!
+ 
+(Filename:  Line: 1655)
+
+UnloadTime: 1.082100 ms
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: 11e00 -> priority: 1 
+  Thread -> id: e8c4 -> priority: 1 
+  Thread -> id: 15fcc -> priority: 1 
+  Thread -> id: 14f00 -> priority: 1 
+(0.0, 0.8, 0.0, 0.6)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
