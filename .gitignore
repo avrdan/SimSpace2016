@@ -2,7 +2,7 @@ Library
 obj
 Temp
 main.sln
-.pdb
+*.pdb
 Assembly-CSharp.csproj
 Library/AssetVersioning.db
 Library/CurrentMaximizeLayout.dwlt
